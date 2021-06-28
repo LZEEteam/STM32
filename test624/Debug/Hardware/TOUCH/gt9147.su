@@ -1,0 +1,5 @@
+gt9147.c:50:4:GT9147_Send_Cfg	24	static
+gt9147.c:67:4:GT9147_WR_Reg	24	static
+gt9147.c:91:6:GT9147_RD_Reg	24	static
+gt9147.c:112:4:GT9147_Init	64	static
+gt9147.c:167:4:GT9147_Scan	48	static

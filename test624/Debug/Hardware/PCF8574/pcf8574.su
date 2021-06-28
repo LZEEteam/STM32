@@ -1,0 +1,5 @@
+pcf8574.c:5:4:PCF8574_Init	8	static
+pcf8574.c:30:4:PCF8574_ReadOneByte	16	static
+pcf8574.c:42:6:PCF8574_WriteOneByte	8	static
+pcf8574.c:56:6:PCF8574_WriteBit	16	static
+pcf8574.c:68:4:PCF8574_ReadBit	16	static

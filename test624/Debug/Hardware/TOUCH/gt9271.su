@@ -1,0 +1,5 @@
+gt9271.c:53:4:GT9271_Send_Cfg	24	static
+gt9271.c:72:4:GT9271_WR_Reg	24	static
+gt9271.c:96:6:GT9271_RD_Reg	24	static
+gt9271.c:117:4:GT9271_Init	64	static
+gt9271.c:176:4:GT9271_Scan	48	static

@@ -1,0 +1,2 @@
+adc_test.c:7:5:Get_Adc	32	static
+adc_test.c:24:5:Get_Adc_Average	56	static

@@ -1,0 +1,4 @@
+ap3216c.c:8:4:AP3216C_Init	8	static
+ap3216c.c:23:6:AP3216C_ReadData	40	static
+ap3216c.c:43:4:AP3216C_WriteOneByte	16	static
+ap3216c.c:67:4:AP3216C_ReadOneByte	16	static

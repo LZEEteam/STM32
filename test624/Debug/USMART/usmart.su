@@ -1,0 +1,8 @@
+usmart.c:16:4:usmart_sys_cmd_exe	56	static,ignoring_inline_asm
+usmart.c:111:6:usmart_init	0	static
+usmart.c:121:4:usmart_cmd_rec	88	static
+usmart.c:151:6:usmart_exe	152	static
+usmart.c:249:6:usmart_scan	0	static
+usmart.c:288:6:usmart_exe_usb	16	static
+usmart.c:324:5:read_addr	0	static
+usmart.c:329:6:write_addr	0	static

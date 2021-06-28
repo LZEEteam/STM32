@@ -1,0 +1,5 @@
+sdram.c:7:6:SDRAM_Initialization_Sequence	40	static
+sdram.c:41:4:SDRAM_Send_Cmd	32	static
+sdram.c:63:6:FMC_SDRAM_WriteBuffer	0	static
+sdram.c:77:6:FMC_SDRAM_ReadBuffer	0	static
+sdram.c:87:6:fsmc_sdram_test	4	static

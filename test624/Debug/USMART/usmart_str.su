@@ -1,0 +1,11 @@
+usmart_str.c:4:4:usmart_strcmp	0	static
+usmart_str.c:16:6:usmart_strcopy	0	static
+usmart_str.c:27:4:usmart_strlen	0	static
+usmart_str.c:39:5:usmart_pow	0	static
+usmart_str.c:46:4:usmart_str2num	20	static
+usmart_str.c:100:4:usmart_get_cmdname	8	static
+usmart_str.c:117:4:usmart_search_nextc	0	static
+usmart_str.c:129:4:usmart_get_fname	40	static
+usmart_str.c:237:4:usmart_get_aparm	24	static
+usmart_str.c:290:4:usmart_get_parmpos	0	static
+usmart_str.c:301:4:usmart_get_fparam	248	static

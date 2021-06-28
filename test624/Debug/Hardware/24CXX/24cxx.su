@@ -1,0 +1,7 @@
+24cxx.c:8:9:AT24CXX_ReadOneByte	16	static
+24cxx.c:31:6:AT24CXX_WriteOneByte	16	static
+24cxx.c:54:6:AT24CXX_WriteLenByte	24	static
+24cxx.c:68:10:AT24CXX_ReadLenByte	24	static
+24cxx.c:84:9:AT24CXX_Check	8	static
+24cxx.c:102:6:AT24CXX_Read	24	static
+24cxx.c:114:6:AT24CXX_Write	24	static

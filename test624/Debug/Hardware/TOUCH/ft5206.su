@@ -1,0 +1,4 @@
+ft5206.c:28:4:FT5206_WR_Reg	24	static
+ft5206.c:50:6:FT5206_RD_Reg	24	static
+ft5206.c:69:4:FT5206_Init	56	static
+ft5206.c:115:4:FT5206_Scan	32	static
